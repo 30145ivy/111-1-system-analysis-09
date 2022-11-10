@@ -249,6 +249,7 @@ deactivate 分析系統
 ### 實用案例3
 
 - 循序圖
+<img width="475" alt="nkust" src="https://user-images.githubusercontent.com/113968421/200969385-def9c9ba-398d-44f7-91ca-495da714ff82.png">
 
 
 - 活動圖
