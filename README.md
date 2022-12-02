@@ -1,4 +1,4 @@
-**小組作業1** : 
+**作業1** : 
 顯示在小組的github上，請列出專案的
 - 組長與組員之姓名
 - 個別組員的任務
@@ -21,7 +21,7 @@
 
 ---
 
-## week4小組作業1 : 
+## 小組作業1 : 
 
 ### 專題題目
 
@@ -76,7 +76,7 @@ gantt
 
 ---
 
-## week6小組作業2: 
+## 小組作業2: 
 
 ### 功能性需求與非功能性需求
 
@@ -195,7 +195,7 @@ main-->a3;
 
 ---
 
-## week7小組作業3 : 
+## 小組作業3 : 
 
 ### 作業3內容 系統環境圖及圖0: 
 ![DFD](https://user-images.githubusercontent.com/57654809/198677743-8b13c8b5-8c54-4f43-ac78-f01e260754b6.png)
@@ -203,7 +203,7 @@ main-->a3;
 
 ---
 
-## week8小組作業4:
+## 小組作業4:
 
 ### 類別圖
 
@@ -224,24 +224,7 @@ main-->a3;
 
 - 循序圖
 
-```mermaid
-sequenceDiagram
-使用者->>+分析系統:選擇條件(性別、年齡、區域、發生時間、查獲情況)
-activate 使用者
-deactivate 使用者
-activate 分析系統
-deactivate 分析系統
-使用者->>+分析系統:選擇呈現方式(文字雲、多項統計圖)
-activate 使用者
-deactivate 使用者
-activate 分析系統
-deactivate 分析系統
-分析系統-->>-使用者:顯示結果
-activate 使用者
-deactivate 使用者
-activate 分析系統
-deactivate 分析系統
-```
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/57654809/205291779-30548bde-3e0e-4033-a828-47fc930c704e.png">
 
 - 活動圖
 ![image](https://user-images.githubusercontent.com/113969847/200119822-d22c36f7-9f12-43eb-aa66-14b000715521.png)
@@ -255,11 +238,8 @@ deactivate 分析系統
 - 活動圖
 
 ![實用案例3_活動圖](https://user-images.githubusercontent.com/113968421/200120359-2ecf9920-dcb1-41d5-92eb-17599aabf8c3.jpg)
-
-
-
 ---
-## week7小組　作業5
+## 小組作業5
 
 <img width="622" alt="image" src="https://user-images.githubusercontent.com/57654809/205289494-a84d0f88-2a9a-40b8-811e-77278ab15afa.png">
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/57654809/205289444-8ec9b21a-edc7-4141-975c-40859db12917.png">
@@ -268,4 +248,7 @@ deactivate 分析系統
 
 
 
+## 小組作業6
+---
 
+![image](https://user-images.githubusercontent.com/57654809/205296551-68b95467-31c6-4571-8fbd-070a33249830.png)
